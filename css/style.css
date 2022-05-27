@@ -115,11 +115,11 @@ h4{
     font-weight: bold;
 }
 
-h5{
-    font-weight: 700;
+.pricing-head{
+    font-weight: bold;
     background-color: #ddd;
-
 }
+
 
 .footer-item{
     font-weight: bold;
